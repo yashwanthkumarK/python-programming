@@ -1,5 +1,5 @@
 x=raw_input("")
 if (x.isalpha()):
-    print ("alphabet")
+    print ("Alphabet")
 else:
-  print ("not alphabet")
+  print ("NO")
